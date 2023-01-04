@@ -1,2 +1,2 @@
 # take-u-forward
-A software develop engineering algorithms solutions from takeuforward site
+A software development engineering algorithms solutions from takeuforward site
